@@ -1,5 +1,5 @@
 ## Sebuah Daftar Belanja Melayang 👋
-<p>aku dan ipong</p>
+
 <!--
 **Fadhill21/Fadhill21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
