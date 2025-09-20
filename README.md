@@ -1,10 +1,5 @@
+<p>
 Ramaikan Lalu Hytamkan 😏
-<p align="center">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white">
 </p>
 
 <!--
@@ -23,5 +18,12 @@ Here are some ideas to get you started:
 -->
  
    ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmh6YzdmMnZidmtlOGtueXR5aWZmYzB6dzZ2bzJrajJiY3Y1OTVjeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mXggOh7xql7MI/giphy.gif)
+<p align="center">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white">
+</p>
 
 
