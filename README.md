@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white">
+  <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhyNWlsaGQxeWFiZDZyZGtvdnJ6OW96NGF1dXJpamlvczcya2NxaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HmO7FZjok6mhW/giphy.gif">
 </p>
 
 <!--
@@ -21,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhyNWlsaGQxeWFiZDZyZGtvdnJ6OW96NGF1dXJpamlvczcya2NxaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HmO7FZjok6mhW/giphy.gif)
+ ![gif]()
     ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmh6YzdmMnZidmtlOGtueXR5aWZmYzB6dzZ2bzJrajJiY3Y1OTVjeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mXggOh7xql7MI/giphy.gif)
 
 
