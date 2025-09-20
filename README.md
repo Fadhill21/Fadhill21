@@ -1,4 +1,4 @@
-<p style=" width=150 height=150">
+<p font-size=100px>
 Ramaikan Lalu Hytamkan 😏
 </p>
 
