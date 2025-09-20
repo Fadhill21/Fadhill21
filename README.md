@@ -1,6 +1,6 @@
-<p align="center" style="color: red;">
+<h1 align="center">
 Ramaikan Lalu Hytamkan 😏
-</p>
+</h1>
 
 <!--
 **Fadhill21/Fadhill21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
