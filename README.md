@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="color:red;">
 Ramaikan Lalu Hytamkan 😏
 </h1>
 
