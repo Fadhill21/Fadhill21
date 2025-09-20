@@ -1,6 +1,6 @@
 ## Sebuah Daftar Belanja Melayang 👋
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhyNWlsaGQxeWFiZDZyZGtvdnJ6OW96NGF1dXJpamlvczcya2NxaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HmO7FZjok6mhW/giphy.gif />
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhyNWlsaGQxeWFiZDZyZGtvdnJ6OW96NGF1dXJpamlvczcya2NxaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HmO7FZjok6mhW/giphy.gif)
 <!--
 **Fadhill21/Fadhill21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
