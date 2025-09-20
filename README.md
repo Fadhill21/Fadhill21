@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
 Ramaikan Lalu Hytamkan 😏
 </h1>
 
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <p>
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmh6YzdmMnZidmtlOGtueXR5aWZmYzB6dzZ2bzJrajJiY3Y1OTVjeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mXggOh7xql7MI/giphy.gif" alt="hai" width="100px">
+ <p align="center">
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmh6YzdmMnZidmtlOGtueXR5aWZmYzB6dzZ2bzJrajJiY3Y1OTVjeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mXggOh7xql7MI/giphy.gif" alt="hai" width="300px">
   </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
