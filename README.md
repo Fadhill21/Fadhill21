@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Fadhill21"><img width="80%" alt="Hello, I'm fad" src="wallpaperflare.com_wallpaper(6).jpg" /></a></p>
+<p align="center"><a href="https://github.com/Fadhill21"><img width="80%" alt="Hello, I'm fad" src="hallo_cuy-removebg-preview.png" /></a></p>
  
 <h1 align="center">
 Ramaikan Lalu Hytamkan 😏
