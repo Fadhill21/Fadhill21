@@ -1,4 +1,4 @@
-
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm fad" src="./assets/gh-readme-header.png" /></a></p>
  
 <h1 align="center">
 Ramaikan Lalu Hytamkan 😏
@@ -31,4 +31,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white">
 </p>
-     - Mie ayam
+   
