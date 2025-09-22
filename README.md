@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="" title="👋 Hallo Cuy! I'm (Fadh(111|dil)|)" />] (https://raymond.li/)
+
 <h1 align="center">
 Ramaikan Lalu Hytamkan 😏
 </h1>
