@@ -4,11 +4,6 @@
   <th><img width="100px" alt="Hello, I'm Fadhil" src="unnamed.gif" /></th>
  </table>
 </p>
- 
-<h1 align="center">
-Ramaikan Lalu Hytamkan 😏
-</h1>
-
 <!--
 **Fadhill21/Fadhill21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
