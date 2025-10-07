@@ -1,5 +1,9 @@
-<p><img width="100px" alt="Hello, I'm Fadhil" src="gura.gif" /></p><p><img width="100px" alt="Hello, I'm Fadhil" src="unnamed.gif" /></p>
-
+<p>
+ <table>
+  <th><img width="100px" alt="Hello, I'm Fadhil" src="gura.gif" /></th>
+  <th><img width="100px" alt="Hello, I'm Fadhil" src="unnamed.gif" /></th>
+ </table>
+</p>
  
 <h1 align="center">
 Ramaikan Lalu Hytamkan 😏
