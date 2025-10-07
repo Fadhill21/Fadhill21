@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Fadhill21"><img width="250px" alt="Hello, I'm Fadhil" src="gura.gif" /><img width="250px" alt="Hello, I'm Fadhil" src="unnamed.gif" /></a></p>
+<p align="center"><a href="https://github.com/Fadhill21"><img width="100px" alt="Hello, I'm Fadhil" src="gura.gif" /></a></p>
 
  
 <h1 align="center">
