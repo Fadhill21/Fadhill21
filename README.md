@@ -1,7 +1,12 @@
 <p>
  <table style="border: none;">
-  <th><img width="100px" alt="Hello, I'm Fadhil" src="gura.gif" /></th>
+  <tr>
+  <th></th>
   <th><img width="100px" alt="Hello, I'm Fadhil" src="unnamed.gif" /></th>
+  </tr>
+  <tr>
+   <td><img width="100px" alt="Hello, I'm Fadhil" src="gura.gif" /></td>
+  </tr>
  </table>
 </p>
 <!--
