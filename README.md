@@ -1,11 +1,4 @@
-<p>
- <table style="border: none;">
-  <tr style="border: none;">
-  <th><img width="100px" alt="Hello, I'm Fadhil" src="gura.gif" /></th>
-  <th><img width="100px" alt="Hello, I'm Fadhil" src="unnamed.gif" /></th>
-  </tr>
- </table>
-</p>
+
 <!--
 **Fadhill21/Fadhill21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
